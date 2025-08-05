@@ -1,5 +1,5 @@
 console.log("Hello, World!");
-console.log("This is day 12 of the coding challenge.");
+console.log("This is day 13 of the coding challenge.");
 const citys = require("./moroccan_cities_with_incremental_id.json")
 
 const randomCity = (citys) => {

@@ -1,0 +1,6 @@
+{
+  "watch": ["*.ts"],
+  "ext": "ts",
+  "ignore": ["*.js", "*.json"], 
+  "exec": "ts-node "
+}

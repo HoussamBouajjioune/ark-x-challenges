@@ -1,0 +1,437 @@
+[
+  {
+    "id": 1,
+    "name": "AGADIR",
+    "arabicName": "أكادير"
+  },
+  {
+    "id": 2,
+    "name": "AIN CHOCK",
+    "arabicName": "عين الشق"
+  },
+  {
+    "id": 3,
+    "name": "AL HOCEIMA",
+    "arabicName": "الحسيمة"
+  },
+  {
+    "id": 4,
+    "name": "AOUSSERD",
+    "arabicName": "أوسرد"
+  },
+  {
+    "id": 5,
+    "name": "ASSA ZAG",
+    "arabicName": "اسا الزاك"
+  },
+  {
+    "id": 6,
+    "name": "AZILAL",
+    "arabicName": "أزيلال"
+  },
+  {
+    "id": 7,
+    "name": "BEN M'SIK SIDI OTHMANE",
+    "arabicName": "بن مسيك سيدي عثمان"
+  },
+  {
+    "id": 8,
+    "name": "BENI MEKADA",
+    "arabicName": "بني مكادة"
+  },
+  {
+    "id": 9,
+    "name": "BENI MELLAL",
+    "arabicName": "بني ملال"
+  },
+  {
+    "id": 10,
+    "name": "BENSLIMANE",
+    "arabicName": "بنسليمان"
+  },
+  {
+    "id": 11,
+    "name": "BERKANE",
+    "arabicName": "بركان "
+  },
+  {
+    "id": 12,
+    "name": "BERRECHID",
+    "arabicName": "برشيد"
+  },
+  {
+    "id": 13,
+    "name": "BOUJDOUR",
+    "arabicName": "بوجدور"
+  },
+  {
+    "id": 14,
+    "name": "BOULEMANE",
+    "arabicName": "بولمان"
+  },
+  {
+    "id": 15,
+    "name": "CASABLANCA",
+    "arabicName": "الدار البيضاء"
+  },
+  {
+    "id": 16,
+    "name": "CASABLANCA ANFA",
+    "arabicName": "الدار البيضاء آنفا"
+  },
+  {
+    "id": 17,
+    "name": "CHEFCHAOUEN",
+    "arabicName": "شفشاون"
+  },
+  {
+    "id": 18,
+    "name": "CHICHAOUA",
+    "arabicName": "شيشاوة"
+  },
+  {
+    "id": 19,
+    "name": "CHTOUKA AIT BAHA",
+    "arabicName": "اشتوكة ايت بها"
+  },
+  {
+    "id": 20,
+    "name": "DAKHLA",
+    "arabicName": "الداخلة"
+  },
+  {
+    "id": 21,
+    "name": "DERB SOLTANE-AL FIDA",
+    "arabicName": "درب السلطان الفداء"
+  },
+  {
+    "id": 22,
+    "name": "DRIOUCH",
+    "arabicName": "دريوش"
+  },
+  {
+    "id": 23,
+    "name": "EL HAJEB",
+    "arabicName": "الحاجب"
+  },
+  {
+    "id": 24,
+    "name": "EL HAOUZ",
+    "arabicName": "الحوز"
+  },
+  {
+    "id": 25,
+    "name": "EL KALAA DES SRAGHNAS",
+    "arabicName": "قلعة السراغنة"
+  },
+  {
+    "id": 26,
+    "name": "EL KELAA DES SRAGHNA",
+    "arabicName": "قلعة السراغنة"
+  },
+  {
+    "id": 27,
+    "name": "ELJADIDA",
+    "arabicName": "الجديدة"
+  },
+  {
+    "id": 28,
+    "name": "ERRACHIDIA",
+    "arabicName": "الراشيدية"
+  },
+  {
+    "id": 29,
+    "name": "ESSAOUIRA",
+    "arabicName": "الصويرة"
+  },
+  {
+    "id": 30,
+    "name": "ESSEMARA",
+    "arabicName": "السمارة"
+  },
+  {
+    "id": 31,
+    "name": "FAHS ANJRA",
+    "arabicName": "الفحص انجرا"
+  },
+  {
+    "id": 32,
+    "name": "FES",
+    "arabicName": "فاس"
+  },
+  {
+    "id": 33,
+    "name": "FIGUIG",
+    "arabicName": "فكيك"
+  },
+  {
+    "id": 34,
+    "name": "FQUIH BEN SALAH",
+    "arabicName": "الفقيه بن صالح"
+  },
+  {
+    "id": 35,
+    "name": "GUELMIM",
+    "arabicName": "كلميم"
+  },
+  {
+    "id": 36,
+    "name": "GUERCIF",
+    "arabicName": "كرسيف"
+  },
+  {
+    "id": 37,
+    "name": "HAY HASSANI",
+    "arabicName": "الحي الحسني"
+  },
+  {
+    "id": 38,
+    "name": "HAY MOHAMMADI AIN SEBAA",
+    "arabicName": "حي المحمدي عين السبع"
+  },
+  {
+    "id": 39,
+    "name": "IFRANE",
+    "arabicName": "إفران "
+  },
+  {
+    "id": 40,
+    "name": "INEZGANE AIT MELLOUL",
+    "arabicName": "انزكان ايت ملول"
+  },
+  {
+    "id": 41,
+    "name": "JERADA",
+    "arabicName": "جرادة"
+  },
+  {
+    "id": 42,
+    "name": "KENITRA",
+    "arabicName": "القنيطرة"
+  },
+  {
+    "id": 43,
+    "name": "KHEMISSET",
+    "arabicName": "الخميسات"
+  },
+  {
+    "id": 44,
+    "name": "KHENIFRA",
+    "arabicName": "خنيفرة"
+  },
+  {
+    "id": 45,
+    "name": "KHOURIBGA",
+    "arabicName": "خريبكة"
+  },
+  {
+    "id": 46,
+    "name": "LAAYOUNE",
+    "arabicName": "العيون"
+  },
+  {
+    "id": 47,
+    "name": "LARACHE",
+    "arabicName": "العرائش"
+  },
+  {
+    "id": 48,
+    "name": "MARRAKECH",
+    "arabicName": "مراكش"
+  },
+  {
+    "id": 49,
+    "name": "MDIQ FNIDQ",
+    "arabicName": "المضيق الفنيدق"
+  },
+  {
+    "id": 50,
+    "name": "MEDIOUNA",
+    "arabicName": "مديونة"
+  },
+  {
+    "id": 51,
+    "name": "MEKNES",
+    "arabicName": "مكناس"
+  },
+  {
+    "id": 52,
+    "name": "MIDELT",
+    "arabicName": "ميدلت"
+  },
+  {
+    "id": 53,
+    "name": "MOHAMMADIA",
+    "arabicName": "المحمدية"
+  },
+  {
+    "id": 54,
+    "name": "MOHAMMADIA ZENATA",
+    "arabicName": "المحمدية زناتة"
+  },
+  {
+    "id": 55,
+    "name": "MOULAY RACHID",
+    "arabicName": "مولاي رشيد"
+  },
+  {
+    "id": 56,
+    "name": "MOULAY YACOUB",
+    "arabicName": "مولاي يعقوب"
+  },
+  {
+    "id": 57,
+    "name": "NADOR",
+    "arabicName": "الناظور"
+  },
+  {
+    "id": 58,
+    "name": "NOUACEUR",
+    "arabicName": "النواصر"
+  },
+  {
+    "id": 59,
+    "name": "OUARZAZATE",
+    "arabicName": "ورزازات"
+  },
+  {
+    "id": 60,
+    "name": "OUAZZANE",
+    "arabicName": "وزان"
+  },
+  {
+    "id": 61,
+    "name": "OUED DAHAB",
+    "arabicName": "وادي الذهب"
+  },
+  {
+    "id": 62,
+    "name": "OUJDA",
+    "arabicName": "وجدة"
+  },
+  {
+    "id": 63,
+    "name": "RABAT",
+    "arabicName": "الرباط"
+  },
+  {
+    "id": 64,
+    "name": "REHAMNA",
+    "arabicName": "الرحامنة"
+  },
+  {
+    "id": 65,
+    "name": "SAFI",
+    "arabicName": "آسفي"
+  },
+  {
+    "id": 66,
+    "name": "SALE",
+    "arabicName": "سلا"
+  },
+  {
+    "id": 67,
+    "name": "SEFROU",
+    "arabicName": "صفرو"
+  },
+  {
+    "id": 68,
+    "name": "SETTAT",
+    "arabicName": "سطات"
+  },
+  {
+    "id": 69,
+    "name": "SIDI BENNOUR",
+    "arabicName": "سيدي بنور"
+  },
+  {
+    "id": 70,
+    "name": "SIDI BERNOUSSI",
+    "arabicName": "سيدي البرنوصي"
+  },
+  {
+    "id": 71,
+    "name": "SIDI IFNI",
+    "arabicName": "سيدي إيفني"
+  },
+  {
+    "id": 72,
+    "name": "SIDI KACEM",
+    "arabicName": "سيدي قاسم"
+  },
+  {
+    "id": 73,
+    "name": "SIDI SLIMANE",
+    "arabicName": "سيدي سليمان"
+  },
+  {
+    "id": 74,
+    "name": "SKHIRATE TEMARA",
+    "arabicName": "الصخيرات تمارة"
+  },
+  {
+    "id": 75,
+    "name": "TANGER ASSILAH",
+    "arabicName": "طنجة اصيلة"
+  },
+  {
+    "id": 76,
+    "name": "TANTAN",
+    "arabicName": "طانطان"
+  },
+  {
+    "id": 77,
+    "name": "TAOUNATE",
+    "arabicName": "تاونات"
+  },
+  {
+    "id": 78,
+    "name": "TAOURIRT",
+    "arabicName": "تاوريرت"
+  },
+  {
+    "id": 79,
+    "name": "TARFAYA",
+    "arabicName": "طرفاية"
+  },
+  {
+    "id": 80,
+    "name": "TAROUDANT",
+    "arabicName": "تارودانت"
+  },
+  {
+    "id": 81,
+    "name": "TATA",
+    "arabicName": "طاطا"
+  },
+  {
+    "id": 82,
+    "name": "TAZA",
+    "arabicName": "تازة"
+  },
+  {
+    "id": 83,
+    "name": "TETOUAN",
+    "arabicName": "تطوان"
+  },
+  {
+    "id": 84,
+    "name": "TINGHIR",
+    "arabicName": "تينغير"
+  },
+  {
+    "id": 85,
+    "name": "TIZNIT",
+    "arabicName": "تيزنيت"
+  },
+  {
+    "id": 86,
+    "name": "YOUSSOUFIA",
+    "arabicName": "اليوسفية"
+  },
+  {
+    "id": 87,
+    "name": "ZAGORA",
+    "arabicName": "زاكورة"
+  }
+]

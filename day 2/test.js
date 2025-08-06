@@ -52,7 +52,7 @@ const alright = false;
 }); 
 
 console.log("1");
-myPromise
+ myPromise
   .then(function (value) {
     console.log(value);
   })

@@ -76,4 +76,21 @@ function narcissistic(value) {
 
 // console.log(narcissistic(153)) ; // true
 
+function onlyDuplicates(str) {
+  const chars = str.split('');
+
+  let count = 0;
+  const res = chars.filter((char, index, self) => {
+    count = self.reduce((count, element) => {
+      return char === element ? count + 1 : count;
+    }, 0)
+    if (count > 1) {
+      return char;
+    }
+  });
+  return res.join('')
+}
+
+console.log(onlyDuplicates("abccdefee")); // true
+
 

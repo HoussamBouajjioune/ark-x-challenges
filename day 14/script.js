@@ -9,10 +9,14 @@ const randomCity = (citys) => {
 }
 
 async function Temperature() {
-    const city = randomCity(JSON.parse(await fs.readFile('citys.txt', 'utf8')));
-    const result = await fetch(`https://wttr.in/${city.name}?format=j1`)
-    const data = await result.json();
-    console.log(`The weather in ${city.name} is: ${data.current_condition[0].temp_C}°C`);
+    // Reading a file
+        const data = await fs.readFile('citys.txt', 'utf8');
+        const citys = JSON.parse(data);
+
+    // const city = randomCity(citys);
+    // const result = await fetch(`https://wttr.in/${city.name}?format=j1`)
+    // const data = await result.json();
+    // console.log(`The weather in ${city.name} is: ${data.current_condition[0].temp_C}°C`);
 }
 
 Temperature().catch(console.error);

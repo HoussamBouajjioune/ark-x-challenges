@@ -2,6 +2,7 @@
 const fetchUserData = async () => {
   try {
     const response = await fetch('https://dummyjson.com/users');
+    console.log('Response Status:', response); // Log the response status
     const { users } = await response.json(); // Destructuring to get the users array
 
     // Process user data
@@ -34,7 +35,7 @@ const summarizeAge = (users) =>
     .reduce((total, { age }) => total + age, 0);
 
 // Run the main function
-// fetchUserData();
+fetchUserData();
 
 
 function setReducer(input) {
@@ -77,6 +78,10 @@ function digitalRoot(n) {
 
 
 console.log(digitalRoot(650557)); // Example usage of digitalRoot function
+
+let sum = (a, b) => {return  a + b}
+ 
+console.log(sum(5, 10)); // Example usage of sum function
 
 
 

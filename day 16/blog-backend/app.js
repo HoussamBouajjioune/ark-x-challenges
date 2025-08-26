@@ -12,7 +12,7 @@ app.use((req, res, next) => {
 });
 
 // Use post routes
-app.use('/', postRoutes);
+app.use('/posts', postRoutes);
 
 // Error-handling middleware
 app.use((err, req, res, next) => {
